@@ -1,1 +1,1 @@
-alert("hello ali sher");
+console.log("hello azhar");

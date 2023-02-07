@@ -7,4 +7,4 @@ console.log(rr + qq, rr - qq, rr * qq, rr / qq);
 let num = 25;
 num % 2 === 0 ? console.log("even") : console.log("odd");
 
-alert("hello");
+console.log("hello");

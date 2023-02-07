@@ -64,25 +64,25 @@ console.log(percentage);*/
 // let name = prompt("what is your name ");
 // alert(name);
 
-let num8 = 30;
-let num9 = 20;
-let myname = "aaaaa";
-let mynumber = 7676888888;
-let myage = 22;
-let fathernumber = 989888866;
-let fathername = "zzzzzz";
-if (num8 < num9) {
-  console.log(myname, mynumber, myage);
-} else if (num8 > num9) {
-  console.log(fathername, fathernumber);
-}
+// let num8 = 30;
+// let num9 = 20;
+// let myname = "aaaaa";
+// let mynumber = 7676888888;
+// let myage = 22;
+// let fathernumber = 989888866;
+// let fathername = "zzzzzz";
+// if (num8 < num9) {
+//   console.log(myname, mynumber, myage);
+// } else if (num8 > num9) {
+//   console.log(fathername, fathernumber);
+// }
 
-let num5 = 35;
-let num6 = 40;
-let ans = (num5 % 5 === 0 && num5 % 10) || (num6 % 5 && num6 % 10);
-console.log(num5 % 5 === 0 && num5 % 10) || (num6 % 5 && num6 % 10);
-num5 % 2 === 0 ? console.log("even") : console.log("odd");
-num6 % 2 === 0 ? console.log("even") : console.log("odd");
+// let num5 = 35;
+// let num6 = 40;
+// let ans = (num5 % 5 === 0 && num5 % 10) || (num6 % 5 && num6 % 10);
+// console.log(num5 % 5 === 0 && num5 % 10) || (num6 % 5 && num6 % 10);
+// num5 % 2 === 0 ? console.log("even") : console.log("odd");
+// num6 % 2 === 0 ? console.log("even") : console.log("odd");
 
 // console.log("hello");
 // alert("hello");
@@ -96,28 +96,28 @@ num6 % 2 === 0 ? console.log("even") : console.log("odd");
 //   console.log("no");
 // }
 
-let num7 = 0;
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
-console.log(++num7);
+// let num7 = 0;
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
+// console.log(++num7);
 
-let num10 = 11;
-console.log(
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10,
-  --num10
-);
+// let num10 = 11;
+// console.log(
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10,
+//   --num10
+// );
